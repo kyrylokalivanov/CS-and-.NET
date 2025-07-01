@@ -109,8 +109,4 @@ Please ensure that your contributions align with the repository's purpose and in
 
 ## License
 
-This repository and all its projects are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions, feedback, or suggestions, please open an issue on GitHub or contact [your-username] at [your-email@example.com].
+This project is for educational purposes and does not include a specific license. Feel free to use and modify the code for learning or personal projects.

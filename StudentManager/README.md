@@ -90,8 +90,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, please open an issue on GitHub or contact [your-username] at [your-email@example.com].
+This project is for educational purposes and does not include a specific license. Feel free to use and modify the code for learning or personal projects.
