@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\yeareditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\yeareditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|C:\\Users\\kyrylo\\Documents\\.net\\Final\\final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\yeareditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\yeareditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|C:\\Users\\kyrylo\\Documents\\.net\\Final\\final\\yeareditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\yeareditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\courseeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\courseeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|C:\\Users\\kyrylo\\Documents\\.net\\Final\\final\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\courseeditform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\courseeditform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|C:\\Users\\kyrylo\\Documents\\.net\\Final\\final\\studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\studenteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\studenteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|c:\\users\\kyrylo\\documents\\.net\\final\\final\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{31F0C229-8071-4E57-97F9-1B0C96B919F7}|Final\\Final.csproj|solutionrelative:final\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Final\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Final\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:12:19.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.cs",
+              "RelativeDocumentMoniker": "Final\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.cs",
+              "RelativeToolTip": "Final\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:00:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YearEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\YearEditForm.cs",
+              "RelativeDocumentMoniker": "Final\\YearEditForm.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\YearEditForm.cs",
+              "RelativeToolTip": "Final\\YearEditForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:20:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Final\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\DatabaseManager.cs",
+              "RelativeToolTip": "Final\\DatabaseManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:12:20.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.cs",
+              "RelativeDocumentMoniker": "Final\\CourseEditForm.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.cs",
+              "RelativeToolTip": "Final\\CourseEditForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:55:51.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.cs",
+              "RelativeDocumentMoniker": "Final\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.cs [Design]",
+              "RelativeToolTip": "Final\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:45:45.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\StudentEditForm.cs",
+              "RelativeDocumentMoniker": "Final\\StudentEditForm.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\StudentEditForm.cs",
+              "RelativeToolTip": "Final\\StudentEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:48:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Final\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.Designer.cs",
+              "RelativeToolTip": "Final\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:10:35.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YearEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\YearEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Final\\YearEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\YearEditForm.Designer.cs",
+              "RelativeToolTip": "Final\\YearEditForm.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:20:28.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YearEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\YearEditForm.cs",
+              "RelativeDocumentMoniker": "Final\\YearEditForm.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\YearEditForm.cs [Design]",
+              "RelativeToolTip": "Final\\YearEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:20:19.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Final\\Program.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Program.cs",
+              "RelativeToolTip": "Final\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:11:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Final\\CourseEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.Designer.cs",
+              "RelativeToolTip": "Final\\CourseEditForm.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:56:02.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Final.csproj",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Final.csproj",
+              "RelativeDocumentMoniker": "Final\\Final.csproj",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Final.csproj",
+              "RelativeToolTip": "Final\\Final.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T11:10:37.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.cs",
+              "RelativeDocumentMoniker": "Final\\CourseEditForm.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.cs [Design]",
+              "RelativeToolTip": "Final\\CourseEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:56:50.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\StudentEditForm.cs",
+              "RelativeDocumentMoniker": "Final\\StudentEditForm.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\StudentEditForm.cs [Design]",
+              "RelativeToolTip": "Final\\StudentEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:51:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseEditForm.resx",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.resx",
+              "RelativeDocumentMoniker": "Final\\CourseEditForm.resx",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\CourseEditForm.resx",
+              "RelativeToolTip": "Final\\CourseEditForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-03T11:57:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\StudentEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Final\\StudentEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\StudentEditForm.Designer.cs",
+              "RelativeToolTip": "Final\\StudentEditForm.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAwMAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:50:56.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.resx",
+              "RelativeDocumentMoniker": "Final\\Form1.resx",
+              "ToolTip": "C:\\Users\\kyrylo\\Documents\\.net\\Final\\Final\\Form1.resx",
+              "RelativeToolTip": "Final\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-03T11:10:35.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
