@@ -88,21 +88,6 @@ dotnet run
    dotnet test
    ```
 
-## Project Structure
-```
-├── Assignment1/                # Solution for Assignment 1 (Stream Handling)
-│   ├── Program.cs              # Main program file
-│   ├── Assignment1.csproj      # Project file
-├── Assignment2/                # Solution for Assignment 2 (Smokers Problem)
-│   ├── Program.cs              # Main program file
-│   ├── Assignment2.csproj      # Project file
-├── Assignment3/                # Solution for Assignment 3 (CultureInfo)
-│   ├── Program.cs              # [To be implemented]
-│   ├── Assignment3.csproj      # [To be implemented]
-├── README.md                   # This file
-└── .gitignore                  # Git ignore file
-```
-
 ## License
 
 This project is for educational purposes and does not include a specific license. Feel free to use and modify the code for learning or personal projects.
