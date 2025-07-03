@@ -109,4 +109,4 @@ Please ensure that your contributions align with the repository's purpose and in
 
 ## License
 
-This project is for educational purposes and does not include a specific license. Feel free to use and modify the code for learning or personal projects.
+This projects are for educational purposes and does not include a specific license. Feel free to use and modify the code for learning or personal projects.
