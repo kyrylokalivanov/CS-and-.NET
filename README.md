@@ -9,7 +9,6 @@ This repository serves as a portfolio of C# and .NET projects created to demonst
 - Desktop applications using Windows Forms.
 - Database-driven applications with SQLite or other databases.
 - Web applications (if applicable) using ASP.NET.
-- Coursework assignments for "Programowanie pod Windows" and other programming courses.
 
 The repository is designed to be a centralized hub for exploring, running, and contributing to these projects.
 
