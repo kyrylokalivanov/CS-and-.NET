@@ -8,7 +8,6 @@ This repository contains solutions for three programming assignments implemented
 - [Assignment 2: Smokers Problem](#assignment-2-smokers-problem)
 - [Assignment 3: CultureInfo Date Formatting](#assignment-3-cultureinfo-date-formatting)
 - [Setup and Execution](#setup-and-execution)
-- [Project Structure](#project-structure)
 - [License](#license)
 
 ## Requirements
