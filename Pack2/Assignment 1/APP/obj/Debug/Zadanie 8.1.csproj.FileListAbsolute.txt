@@ -1,0 +1,14 @@
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1.csproj.AssemblyReference.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\MainWindow.baml
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\MainWindow.g.cs
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\App.g.cs
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1_MarkupCompile.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1.g.resources
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie_8._1.Properties.Resources.resources
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1.csproj.GenerateResource.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1.csproj.CoreCompileInputs.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\bin\Debug\Zadanie 8.1.exe.config
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\bin\Debug\Zadanie 8.1.exe
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\bin\Debug\Zadanie 8.1.pdb
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1.exe
+C:\Users\kyrylo\Documents\.net\Zadanie 8.1\Zadanie 8.1\obj\Debug\Zadanie 8.1.pdb

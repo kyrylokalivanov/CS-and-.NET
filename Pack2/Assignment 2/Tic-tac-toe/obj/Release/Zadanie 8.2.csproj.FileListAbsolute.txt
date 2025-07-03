@@ -1,0 +1,14 @@
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\bin\Release\Zadanie 8.2.exe.config
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\bin\Release\Zadanie 8.2.exe
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\bin\Release\Zadanie 8.2.pdb
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2.csproj.AssemblyReference.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\MainWindow.baml
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\MainWindow.g.cs
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\App.g.cs
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2_MarkupCompile.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2.g.resources
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie_8._2.Properties.Resources.resources
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2.csproj.GenerateResource.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2.csproj.CoreCompileInputs.cache
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2.exe
+C:\Users\kyrylo\Documents\.net\Zadanie 8.2\Zadanie 8.2\obj\Release\Zadanie 8.2.pdb
