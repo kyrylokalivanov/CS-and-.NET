@@ -12,17 +12,6 @@ This repository serves as a portfolio of C# and .NET projects created to demonst
 
 The repository is designed to be a centralized hub for exploring, running, and contributing to these projects.
 
-## Projects
-
-Below is a list of projects currently included in this repository. Each project has its own subdirectory and detailed documentation.
-
-- **StudentManager**:
-  - A Windows Forms application for managing student records, academic years, and courses using SQLite.
-  - Features a TreeView for navigation, ListView for data display, and forms for adding/editing records.
-  - See `StudentManager/README.md` for details.
-
-*Additional projects will be added here as they are included in the repository.*
-
 ## Requirements
 
 To run the projects in this repository, you need:
